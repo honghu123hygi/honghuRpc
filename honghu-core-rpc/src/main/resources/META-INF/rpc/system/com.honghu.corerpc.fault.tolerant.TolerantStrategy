@@ -1,0 +1,4 @@
+failBack=com.honghu.corerpc.fault.FailBackTolerantStrategy
+failFast=com.honghu.corerpc.fault.FailFastTolerantStrategy
+failOver=com.honghu.corerpc.fault.FailOverTolerantStrategy
+failSave=com.honghu.corerpc.fault.FailSafeTolerantStrategy

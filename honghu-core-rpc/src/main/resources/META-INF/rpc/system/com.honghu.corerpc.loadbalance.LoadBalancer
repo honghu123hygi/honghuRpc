@@ -1,0 +1,3 @@
+random=com.honghu.corerpc.loadbalance.RandomLoadBalancer
+consistentHash=com.honghu.corerpc.loadbalance.ConsistentHashLoadBalancer
+roundRobin=com.honghu.corerpc.loadbalance.RoundRobinLoadBalancer

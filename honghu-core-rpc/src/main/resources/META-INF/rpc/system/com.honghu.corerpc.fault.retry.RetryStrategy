@@ -1,0 +1,2 @@
+no=com.honghu.corerpc.fault.retry.NoRetryStrategy
+fixedInterval=com.honghu.corerpc.fault.retry.FixedIntervalRetryStrategy

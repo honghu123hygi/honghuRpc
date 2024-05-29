@@ -1,0 +1,4 @@
+jdk=com.honghu.corerpc.serializer.JdkSerializer
+hessian=com.honghu.corerpc.serializer.HessianSerializer
+json=com.honghu.corerpc.serializer.JsonSerializer
+kryo=com.honghu.corerpc.serializer.KryoSerializer
